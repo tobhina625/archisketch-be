@@ -1,0 +1,6 @@
+@Archisketch_APIs_HostAddress = http://localhost:5271
+
+GET {{Archisketch_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
